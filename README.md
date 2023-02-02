@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working at Cerner (recently quired by Oracle) in an internship in software development!
 <br>🌱 I'm looking to learn more about full stack development tools and the Rust programming language this year!
-<br>⚡ Fun Fact about me: I love studying languages and running races!
+<br>⚡ Fun Fact about me: I love studying (human) languages and running races!
 
 
 ## 🌐 Socials:
